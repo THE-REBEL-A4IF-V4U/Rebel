@@ -2,6 +2,7 @@
   "apikey": {
     "GEMINI_API_KEY": "AIzaSyAi1pzp2IEbZHD1KW0p3briT3nwRURZ_eA",
     "IMGUR_CLIENT_ID": "48c3dbeb01dbdad",
-     "tmdb": "eedc519e8a484ba56afa954855ca8a49"
+    "tmdb": "eedc519e8a484ba56afa954855ca8a49",
+    "GENIUS_TOKEN": "-WyO8dsPdjKnOjj5Pc52ve_qnaddRdmUX-JraasjVjNXMNlywF2TLvlDrv_RJtT6"
   }
 }
