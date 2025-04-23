@@ -4,7 +4,11 @@
     "IMGUR_CLIENT_ID": "48c3dbeb01dbdad",
     "weather": "6a2894513b9a891d5720c22d6182c318",
     "tmdb": "eedc519e8a484ba56afa954855ca8a49",
-    "GENIUS_TOKEN": "-WyO8dsPdjKnOjj5Pc52ve_qnaddRdmUX-JraasjVjNXMNlywF2TLvlDrv_RJtT6"
+    "GENIUS_TOKEN": "-WyO8dsPdjKnOjj5Pc52ve_qnaddRdmUX-JraasjVjNXMNlywF2TLvlDrv_RJtT6",
+    "TENOR_API_KEY": "AIzaSyBBCEvUwZ5pxUv8twn6KDMJolBUta4QQXk"
+   
+ 
+ 
   }
 
 }
