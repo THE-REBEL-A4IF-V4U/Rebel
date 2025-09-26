@@ -5,10 +5,11 @@
     "weather": "6a2894513b9a891d5720c22d6182c318",
     "tmdb": "eedc519e8a484ba56afa954855ca8a49",
     "GENIUS_TOKEN": "-WyO8dsPdjKnOjj5Pc52ve_qnaddRdmUX-JraasjVjNXMNlywF2TLvlDrv_RJtT6",
-    "TENOR_API_KEY": "AIzaSyBBCEvUwZ5pxUv8twn6KDMJolBUta4QQXk"
-   
- 
- 
-  }
+    "TENOR_API_KEY": "AIzaSyBBCEvUwZ5pxUv8twn6KDMJolBUta4QQXk",
+    "RAPIDAPI_KEY": "f05aa543f0mshb4458470cfd3addp14dd40jsn634827a788ee"
 
+
+ 
+ 
+  
 }
