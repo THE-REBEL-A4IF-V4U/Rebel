@@ -54,7 +54,8 @@
    "name":"RTV HD",
    "logo":"https://i.ibb.co.com/rRPcs9QG/RTV-HD.png",
    "cat":"BANGLADESH",
-   "url":"https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1758931025&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=0aaadbc07495e0e94b255689856b9f06},
+   "url":"https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1758931025&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=0aaadbc07495e0e94b255689856b9f06"
+  },
   {
    "name":"BOISHAKHI TV HD",
    "logo":"https://i.ibb.co.com/bRWPFmnc/BOISHAKHI-TV-HD.png",
@@ -76,7 +77,8 @@
    "name":"MOHONA TV HD",
    "logo":"https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png",
    "cat":"BANGLADESH",
-   "url":"http://103.89.248.30:8082/MOHONA-TV/index.m3u8?token=9916539590cacb78112f501c337ab2068d739c48-914338da23cfff3761d4f9207b47bd3a-1759058175-1759047375&remote=no_check_ip},
+   "url":"http://103.89.248.30:8082/MOHONA-TV/index.m3u8?token=9916539590cacb78112f501c337ab2068d739c48-914338da23cfff3761d4f9207b47bd3a-1759058175-1759047375&remote=no_check_ip"
+  },
   {
    "name":"INDEPENDENT TV HD",
    "logo":"https://i.ibb.co.com/rWKWyNc/INDEPENDENT-HD.png",
@@ -133,12 +135,13 @@
    "name":"SATV HD",
    "logo":"https://i.ibb.co/hJfN77YC/SATV-HD.png",
    "cat":"BANGLADESH",
-   "url":"http://starshare.fun:8080/live/keerthi5599/superdeal34/3814.ts},
+   "url":"http://starshare.fun:8080/live/keerthi5599/superdeal34/3814.ts"},
   {
    "name":"BIJOY TV HD",
    "logo":"https://i.ibb.co/N6Npbb2h/BIJOY-TV-HD.png",
    "cat":"BANGLADESH",
-   "url":"http://starshare.fun:8080/live/keerthi5599/superdeal34/408.ts},
+   "url":"http://starshare.fun:8080/live/keerthi5599/superdeal34/408.ts"
+  },
   {
    "name":"DEEPTO TV HD",
    "logo":"https://i.ibb.co/TqPTwjRj/DEEPTO-TV-HD.png",
@@ -148,12 +151,14 @@
    "name":"BANGLA TV HD",
    "logo":"https://i.ibb.co/w2ssfRW/BANGLA-TV-HD.png",
    "cat":"BANGLADESH",
-   "url":"http://starshare.fun:8080/live/keerthi5599/superdeal34/3803.ts},
+   "url":"http://starshare.fun:8080/live/keerthi5599/superdeal34/3803.ts"
+  },
   {
    "name":"NAGORIK HD",
    "logo":"https://i.ibb.co/Gf69TnpK/NAGORIK-TV.png",
    "cat":"BANGLADESH",
-   "url":"http://starshare.fun:8080/live/keerthi5599/superdeal34/3802.ts},
+   "url":"http://starshare.fun:8080/live/keerthi5599/superdeal34/3802.ts"
+  },
   {
    "name":"ANANDA TV HD",
    "logo":"https://i.ibb.co/nNwGCvJH/ANANDA-TV.png",
@@ -168,7 +173,8 @@
    "name":"GREEN TV HD",
    "logo":"https://i.ibb.co/PvzdGBf8/GREEN-TV.png",
    "cat":"BANGLADESH",
-   "url":"http://starshare.fun:8080/live/keerthi5599/superdeal34/257227.ts},
+   "url":"http://starshare.fun:8080/live/keerthi5599/superdeal34/257227.ts"
+  },
   
   {
    "name":"Sony MAX 2",
@@ -231,7 +237,8 @@
    "name":"CHANNEL S HD",
    "logo":"https://i.ibb.co/gLF4gzFy/CHANNEL-S.png",
    "cat":"BANGLADESH",
-   "url":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8}
+   "url":"https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8"
+  },
 
   {   "name":"Sony india Television HD",
    "logo":"https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp",
