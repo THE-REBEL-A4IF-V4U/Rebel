@@ -8,11 +8,11 @@
   {
     "name": "Sony PIX HD",
     "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",
-    "cat": "movies",
+    "cat": "Movies",
     "url": "https://www.xfireflix.fun/test/live.php?id=5c42f69f96db&e=.m3u8"
   },
   {
-    "name": "Sony Ten Sports 5 HD",
+    "name": "Sony Ten sports 5 HD",
     "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/241705c1-06a9-4694-92c6-0013d1879e42.webp",
     "cat": "sports",
     "url": "https://www.xfireflix.fun/test/live.php?id=2dece57b30a1&e=.m3u8"
@@ -214,12 +214,12 @@
     {
     "name": "Sony MAX H",
     "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.web",
-    "cat": "movies",
+    "cat": "Movies",
     "url": "https://www.xfireflix.fun/test/live.php?id=a8b8b701d558&e=.m3u8"
   },
   
     {
-    "name": "Sony Ten Sports 2 HD",
+    "name": "Sony Ten sports 2 HD",
     "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/sy5m-JQBv9knK3AHYTTk/posters/a664bf2a-af9c-4e79-89df-50a40a6e3e66.png",
     "cat": "sports",
     "url": "https://www.xfireflix.fun/test/live.php?id=0a0ad851d705&e=.m3u8"
@@ -227,10 +227,49 @@
 {
     "name":"Zee Action",
     "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png ",
-    "cat": "Movie",
+    "cat": "Movies",
     "url": "https://www.xfireflix.fun/test/live.php?id=72a0803cf563&e=.m3u8"
   },
   
+     {
+    "name":"Zee Cafe",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png ",
+    "cat": "Movies",
+    "url": "https://www.xfireflix.fun/test/live.php?id=c65460ba0d73&e=.m3u8
+ "
+  },
+
+{
+    "name":"Zing",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png ",
+    "cat": "Music",
+    "url": "https://www.xfireflix.fun/test/live.php?id=dc488b1502f5&e=.m3u8 "
+  },
+
+{    "name":"ICC Test Championship Highlights",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PnZefJcBcqxnFHJBoxca/posters/14699162-6ec8-4a94-a572-2795c6ddd329.png ",
+    "cat": "sports",
+    "url": "https://www.xfireflix.fun/test/live.php?id=b18613696a70&e=.m3u8 "
+  },
+
+{    "name":"Zee Cinema HD",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/1f43be2f-f8d9-4a0c-b0cb-971a18a6771c.png ",
+    "cat": "Movies",
+    "url": "https://www.xfireflix.fun/test/live.php?id=3c1cc31a847f&e=.m3u8 "
+  },
+
+{    "name":"& Pictures HD",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5y7HX5UBv9knK3AHs6Nk/posters/794fd415-1b0a-49b5-b91b-2f62ba6cd759.png ",
+    "cat": "Movies",
+    "url": "https://www.xfireflix.fun/test/live.php?id=1d8f06362c1e& "
+  },
+
+{    "name":"Sony MAX",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp ",
+    "cat": "Movies",
+    "url": "https://www.xfireflix.fun/test/live.php?id=72e420862a7f&e=.m3u8 "
+  },
+     
      
   {
     "name": "CHANNEL S HD",
