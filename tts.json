@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Discovery",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",
+    "cat": "india",
+    "url": "https://www.xfireflix.fun/test/live.php?id=a1c4e01414e7&e=.m3u8"
+  },
+  {
+    "name": "Sony PIX HD",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",
+    "cat": "movies",
+    "url": "https://www.xfireflix.fun/test/live.php?id=5c42f69f96db&e=.m3u8"
+  },
+  {
+    "name": "Sony Ten Sports 5 HD",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/241705c1-06a9-4694-92c6-0013d1879e42.webp",
+    "cat": "sports",
+    "url": "https://www.xfireflix.fun/test/live.php?id=2dece57b30a1&e=.m3u8"
+  },
+  {
+    "name": "Zee Bangla",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/16e111ed-2335-4391-9618-f840e4c4a6a2.png",
+    "cat": "kolkata",
+    "url": "https://www.xfireflix.fun/test/live.php?id=a994bb5a55fc&e=.m3u8"
+  },
+  
+  {
+    "name": "BTV HD",
+    "logo": "https://i.ibb.co/Ld0wZ9dT/BTV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+  },
+  {
+    "name": "ATN BANGLA HD",
+    "logo": "https://i.ibb.co.com/9H65SwCG/ATN-BANGLA-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
+  },
+  {
+    "name": "ATN NEWS HD",
+    "logo": "https://i.ibb.co.com/Dg7PZ2hr/ATN-NEWS-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
+  },
+  {
+    "name": "CHANNEL I HD",
+    "logo": "https://i.ibb.co.com/LzVX7DTt/CHANNEL-I-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
+  },
+  {
+    "name": "EKUSHEY TV HD",
+    "logo": "https://i.ibb.co.com/xtLSNbmW/EKUSHEY-TELEVISION-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
+  },
+  {
+    "name": "NTV HD",
+    "logo": "https://i.ibb.co.com/rGFdn8DF/NTV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
+  },
+  {
+    "name": "RTV HD",
+    "logo": "https://i.ibb.co.com/rRPcs9QG/RTV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1758931025&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=0aaadbc07495e0e94b255689856b9f06"
+  },
+  {
+    "name": "BOISHAKHI TV HD",
+    "logo": "https://i.ibb.co.com/bRWPFmnc/BOISHAKHI-TV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/60.m3u8"
+  },
+  {
+    "name": "BANGLA VISION HD",
+    "logo": "https://i.ibb.co.com/q31ZdLqP/BANGLAVISION-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
+  },
+  {
+    "name": "MY TV HD",
+    "logo": "https://i.ibb.co.com/VWjHNn5Y/MYTV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://mytvbangla.com/0.m3u8"
+  },
+
+
+  {
+    "name": "MOHONA TV HD",
+    "logo": "https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "http://103.89.248.30:8082/MOHONA-TV/index.m3u8?token=9916539590cacb78112f501c337ab2068d739c48-914338da23cfff3761d4f9207b47bd3a-1759058175-1759047375&remote=no_check_ip"
+  },
+  {
+    "name": "INDEPENDENT TV HD",
+    "logo": "https://i.ibb.co.com/rWKWyNc/INDEPENDENT-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
+  },
+  {
+    "name": "SOMOY TV HD",
+    "logo": "https://i.ibb.co.com/fYCbByKT/SOMOY-TV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
+  },
+  {
+    "name": "CHANNEL 24 HD",
+    "logo": "https://i.ibb.co.com/gMzdFFxC/CHANNEL-24-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
+  },
+  {
+    "name": "EKATTOR TV HD",
+    "logo": "https://i.ibb.co.com/HkwQ9v4/EKATTOR-TV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
+  },
+  {
+    "name": "JAMUNA TV HD",
+    "logo": "https://i.ibb.co.com/gbJBXL6V/JAMUNA-TV.png",
+    "cat": "BANGLADESH",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
+  },
+  {
+    "name": "NEWS24 HD",
+    "logo": "https://i.ibb.co.com/9jF2B20/NEWS24-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "DBC NEWS HD",
+    "logo": "https://i.ibb.co.com/ndyxMmR/DBC-NEWS-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "MAASRANGA HD",
+    "logo": "https://i.ibb.co.com/3XM3HcH/MAASRANGA-TV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "GTV HD",
+    "logo": "https://i.ibb.co.com/gFP39KRD/GTV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1/mono.m3u8"
+  },
+
+  
+  {
+    "name": "ASIAN TV HD",
+    "logo": "https://i.ibb.co/b5xSHH7R/ASIAN-TV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/146.m3u8"
+  },
+  {
+    "name": "SATV HD",
+    "logo": "https://i.ibb.co/hJfN77YC/SATV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "http://starshare.fun:8080/live/keerthi5599/superdeal34/3814.ts"
+  },
+  {
+    "name": "BIJOY TV HD",
+    "logo": "https://i.ibb.co/N6Npbb2h/BIJOY-TV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "http://starshare.fun:8080/live/keerthi5599/superdeal34/408.ts"
+  },
+  {
+    "name": "DEEPTO TV HD",
+    "logo": "https://i.ibb.co/TqPTwjRj/DEEPTO-TV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
+  },
+  {
+    "name": "BANGLA TV HD",
+    "logo": "https://i.ibb.co/w2ssfRW/BANGLA-TV-HD.png",
+    "cat": "BANGLADESH",
+    "url": "http://starshare.fun:8080/live/keerthi5599/superdeal34/3803.ts"
+  },
+  {
+    "name": "NAGORIK HD",
+    "logo": "https://i.ibb.co/Gf69TnpK/NAGORIK-TV.png",
+    "cat": "BANGLADESH",
+    "url": "http://starshare.fun:8080/live/keerthi5599/superdeal34/3802.ts"
+  },
+  {
+    "name": "ANANDA TV HD",
+    "logo": "https://i.ibb.co/nNwGCvJH/ANANDA-TV.png",
+    "cat": "BANGLADESH",
+    "url": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8"
+  },
+  {
+    "name": "GLOBAL TV HD",
+    "logo": "https://i.ibb.co/whWmLwzV/GLOBAL-TELEVISION-HD.png",
+    "cat": "BANGLADESH",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "GREEN TV HD",
+    "logo": "https://i.ibb.co/PvzdGBf8/GREEN-TV.png",
+    "cat": "BANGLADESH",
+    "url": "http://starshare.fun:8080/live/keerthi5599/superdeal34/257227.ts"
+  },
+  
+  {
+    "name": "Sony MAX 2",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",
+    "cat": "In",
+    "url": "https://www.xfireflix.fun/test/live.php?id=959476952605&e=.m3u8"
+  },
+  
+  
+    {
+    "name": "Sony MAX H",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.web",
+    "cat": "movies",
+    "url": "https://www.xfireflix.fun/test/live.php?id=a8b8b701d558&e=.m3u8"
+  },
+  
+    {
+    "name": "Sony Ten Sports 2 HD",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/sy5m-JQBv9knK3AHYTTk/posters/a664bf2a-af9c-4e79-89df-50a40a6e3e66.png",
+    "cat": "sports",
+    "url": "https://www.xfireflix.fun/test/live.php?id=0a0ad851d705&e=.m3u8
+ "
+  },
+{
+    "name":"Zee Action",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png ",
+    "cat": "Movie",
+    "url": "https://www.xfireflix.fun/test/live.php?id=72a0803cf563&e=.m3u8
+ "
+  },
+  
+     
+  {
+    "name": "CHANNEL S HD",
+    "logo": "https://i.ibb.co/gLF4gzFy/CHANNEL-S.png",
+    "cat": "BANGLADESH",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8"
+  }
+
+  
+  
+  
+  
+     
+  
+]
