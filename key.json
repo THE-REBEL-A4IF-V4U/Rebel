@@ -1,16 +1,10 @@
 {
-  "apikey": {
-    "GEMINI_API_KEY": "AIzaSyDxl9DBY5cLi-mUlUS27reSEezapc7vxd8",
-    "IMGUR_CLIENT_ID": "48c3dbeb01dbdad",
-    "weather": "6a2894513b9a891d5720c22d6182c318",
-    "tmdb": "eedc519e8a484ba56afa954855ca8a49",
-    "GENIUS_TOKEN": "-WyO8dsPdjKnOjj5Pc52ve_qnaddRdmUX-JraasjVjNXMNlywF2TLvlDrv_RJtT6",
-    "TENOR_API_KEY": "AIzaSyBBCEvUwZ5pxUv8twn6KDMJolBUta4QQXk",
-    "SCREENSHOT_API_KEY": "97ff4b",
-    "RAPIDAPI_KEY": "f05aa543f0mshb4458470cfd3addp14dd40jsn634827a788ee"
-
-
- 
-  }
-  
+  "TMDB_KEY": "NEW_KEY_HERE",
+  "GEMINI_API_KEY": "NEW_KEY_HERE",
+  "IMGUR_CLIENT_ID": "NEW_KEY_HERE",
+  "WEATHER_KEY": "NEW_KEY_HERE",
+  "GENIUS_TOKEN": "NEW_KEY_HERE",
+  "TENOR_API_KEY": "NEW_KEY_HERE",
+  "SCREENSHOT_API_KEY": "NEW_KEY_HERE",
+  "RAPIDAPI_KEY": "NEW_KEY_HERE"
 }
