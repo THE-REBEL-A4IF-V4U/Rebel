@@ -1,0 +1,10 @@
+{
+  "REBEL-123456": {
+    "owner": "Test User",
+    "limit": 1000
+  },
+  "REBEL-ASIF-999": {
+    "owner": "Md Ariful Islam Asif",
+    "limit": "unlimited"
+  }
+}
