@@ -1,5 +1,7 @@
 {
   "GEMINI_API_KEY": "AIzaSyDrbt2Xt83Qko_gfp4rhHysB4jqi1uTYqs",
+  "IMGUR_CLIENT_ID": "48c3dbeb01dbdad",
+  "weather": "6a2894513b9a891d5720c22d6182c318",
   "TMDB_KEY": "eedc519e8a484ba56afa954855ca8a49",
   "SCREENSHOT_API_KEY": "97ff4b",
   "tmdb": "eedc519e8a484ba56afa954855ca8a49"
