@@ -1,14 +1,7 @@
-[
-  {
-    "url": "https://drive.google.com/uc?export=download&id=1FPUV_bu9iyxroyqF0P8hoVXEtSIYYPUH"
-  },
-  {
-    "url": "https://drive.google.com/uc?export=download&id=1FGdP6mzU9cIGk0_XhR6c3IUM31U234Sn"
-  },
-  {
-    "url": "https://drive.google.com/uc?export=download&id=1FIxP-Y5MVIyTnVL1I-vyUZXDZRMHgoAm"
-  },
-  {
-    "url": "https://drive.google.com/uc?export=download&id=1FGDqmT8TIY1_-fNXR2RJr2iDDxf_ejQj"
-  }
-]
+{
+  "Fajr": "https://drive.google.com/uc?export=download&id=1FPUV_bu9iyxroyqF0P8hoVXEtSIYYPUH",
+  "Dhuhr": "https://drive.google.com/uc?export=download&id=1FGdP6mzU9cIGk0_XhR6c3IUM31U234Sn",
+  "Asr": "https://drive.google.com/uc?export=download&id=1FIxP-Y5MVIyTnVL1I-vyUZXDZRMHgoAm",
+  "Maghrib": "https://drive.google.com/uc?export=download&id=1FGDqmT8TIY1_-fNXR2RJr2iDDxf_ejQj",
+  "Isha": "https://drive.google.com/uc?export=download&id=1XXXXX" 
+}
