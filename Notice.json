@@ -1,6 +1,6 @@
 {
   "notice_config": {
-    "show": true, 
+    "show": false, 
     "message": "📢 TRS Admission is OPEN! Join the Squad 🛡️",
     "button_show": true,
     "button_text": "APPLY NOW",
