@@ -1,7 +1,9 @@
 {
-  "rebel": "https://rebel-api-v2.onrender.com",
   "notice_config": {
     "show": true, 
-    "message": "📢 TRS Admission is OPEN! Apply now to join the squad and learn Cyber Security 🛡️"
+    "message": "📢 TRS Admission is OPEN! Join the Squad 🛡️",
+    "button_show": true,
+    "button_text": "APPLY NOW",
+    "button_url": "https://the-rebel-squad-trs.vercel.app/admission"
   }
 }
