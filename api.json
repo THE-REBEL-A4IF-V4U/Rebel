@@ -3,6 +3,6 @@
   "api": "http://65.109.80.126:20392",
   "api2": "http://65.109.80.126:20392",
   "rebel": "https://rebel-api-v2.onrender.com",
-  "terabox": "http://65.109.80.126:20392"
-  
+  "terabox": "http://65.109.80.126:20392",
+  "nayan": "https://nayan-video-downloader.vercel.app"
 }
