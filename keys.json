@@ -1,0 +1,16 @@
+{
+  "version": "12.4",
+  "maintenance": false,
+  "keys": {
+    "PAID-KEY-101": {
+      "name": "ASIF",
+      "hwid": "TRS_DEVICE_12345678",
+      "expiry": "2026-12-31"
+    },
+    "PAID-KEY-102": {
+      "name": "USER2",
+      "hwid": "TRS_DEVICE_87654321",
+      "expiry": "2026-10-15"
+    }
+  }
+}
