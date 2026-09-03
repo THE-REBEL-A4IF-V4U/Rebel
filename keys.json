@@ -11,6 +11,11 @@
       "name": "USER2",
       "hwid": "TRS_DEVICE_87654321",
       "expiry": "2026-10-15"
+    },
+    "PAID-KEY-1023": {
+      "name": "TEST",
+      "hwid": "",
+      "expiry": "2026-10-15"
     }
   }
 }
